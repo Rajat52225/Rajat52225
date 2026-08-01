@@ -5,7 +5,7 @@
 ### Java Backend Developer • Full Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/api?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rajat+Sharma;Java+Backend+Developer;Spring+Boot+Developer;React+Developer;Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/api?font=JetBrains+Mono&size=28&color=7F5AF0&center=true&vCenter=true&width=700&lines=Hello+World" />
 </p>
 
 </div>
