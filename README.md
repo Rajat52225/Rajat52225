@@ -82,16 +82,16 @@ Current Goal:
 
 <p align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-155+%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://leetcode.com/u/Rajat5225/">
+<img src="https://img.shields.io/badge/LeetCode-155%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/">
+<a href="https://www.codechef.com/users/rajat_5225">
 <img src="https://img.shields.io/badge/CodeChef-1313%20Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Rajat52225">
-<img src="https://img.shields.io/badge/GitHub-Rajat52225-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Rajat52225-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
