@@ -172,13 +172,15 @@ Hotel Booking Application with
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Developer Highlights
 
-<p align="center">
+- 🏆 Solved **155+** Problems on LeetCode
+- ⭐ **1342** CodeChef Rating
+- ☕ Java Backend Developer
+- 🌱 Learning Spring Boot, Docker & Kubernetes
+- 🚀 Building Full Stack Applications
+- 📚 Exploring Cloud & System Design
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rajat52225&theme=tokyonight&row=1&column=6&no-frame=true"/>
-
-</p>
 
 ---
 
