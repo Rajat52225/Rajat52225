@@ -4,29 +4,27 @@
 
 ---
 
+<div align="center">
+
 # 👋 Hi, I'm Rajat Sharma
 
 ### Java Backend Developer | Full Stack Developer
 
-💻 B.Tech CSE Student
+💻 **B.Tech CSE Student**
 
-🌱 Currently learning **Spring Boot, React, Docker & Kubernetes**
+🌱 Learning **Spring Boot • React • Docker • Kubernetes**
 
-🚀 Passionate about Backend Development and DSA
+🚀 Passionate about **Backend Development & DSA**
 
 📍 India
 
----
+</div>
 
-# 🚀 Tech Stack
+<div align="center">
 
-<p align="center">
+*"Building software that solves real-world problems."*
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,mongodb,docker,kubernetes,git,github,html,css,js,vscode&perline=6" />
-
-</p>
-
----
+</div>
 
 ---
 
@@ -35,46 +33,44 @@
 ```yaml
 Name: Rajat Sharma
 
-🎓 Education:
+Education:
   - B.Tech Computer Science Engineering
 
-💻 Languages:
+Languages:
   - Java
   - C++
   - JavaScript
 
-🌱 Currently Learning:
+Currently Learning:
   - Spring Boot
   - React
   - Docker
   - Kubernetes
   - AWS
 
-🎯 Interests:
+Interests:
   - Backend Development
   - Full Stack Development
   - Data Structures & Algorithms
 
-🚀 Current Goal:
+Current Goal:
   - Become a Software Engineer
 ```
 
 ---
 
+## 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,mongodb,docker,kubernetes,git,github,html,css,js,vscode&perline=6"/>
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
-### 🚇 MetroAlert *(Coming Soon)*
-
-A real-time Delhi Metro journey assistant with destination alarm, live tracking and smart notifications.
-
----
-
-### 🔍 TraceBack
-
-Lost & Found platform built using Spring Boot, React, MongoDB and AWS S3.
-
----
-
-### 🏨 StayScout
-
-Hotel booking application with search, pagination and responsive UI.
+| Project | Tech Stack | Status |
+|---------|------------|--------|
+| 🚇 **MetroAlert** | React • Spring Boot • Maps • Notifications | 📝 Planned |
+| 🔍 **TraceBack** | Spring Boot • MongoDB • AWS S3 • React | ✅ Completed |
+| 🏨 **StayScout** | React • REST API | ✅ Completed |
