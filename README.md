@@ -17,3 +17,13 @@
 📍 India
 
 ---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,mongodb,docker,kubernetes,git,github,html,css,js,vscode&perline=6" />
+
+</p>
+
+---
