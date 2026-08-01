@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=34&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Rajat+Sharma;Java+Backend+Developer;Spring+Boot+•+React+Developer;Cloud+%7C+DSA+Enthusiast;Building+Scalable+Applications"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Rajat+Sharma;Java+Backend+Developer;Spring+Boot+%7C+React;Cloud+%7C+DSA+Enthusiast" />
+</p>
 
 <br>
 
