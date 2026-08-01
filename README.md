@@ -64,6 +64,10 @@ Goal:
   Become a Software Engineer
 ```
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Rajat52225&style=for-the-badge&color=7F5AF0"/>
+</p>
+
 ---
 
 ## 🚀 Tech Stack
