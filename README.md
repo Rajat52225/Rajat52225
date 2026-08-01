@@ -69,13 +69,27 @@ Current Goal:
 
 ## 🚀 Featured Projects
 
-| Project | Tech Stack | Status |
-|---------|------------|--------|
-| 🚇 **MetroAlert** | React • Spring Boot • Maps • Notifications | 📝 Planned |
-| 🔍 **TraceBack** | Spring Boot • MongoDB • AWS S3 • React | ✅ Completed |
-| 🏨 **StayScout** | React • REST API | ✅ Completed |
+### 🚇 MetroAlert *(Upcoming)*
 
+> Smart Delhi Metro journey assistant with destination alarms, live tracking, browser notifications, and route visualization.
 
+**Tech:** `React` `Spring Boot` `MongoDB` `Maps API`
+
+---
+
+### 🔍 TraceBack
+
+> Lost & Found platform with secure authentication, AWS S3 image uploads, and claim verification.
+
+**Tech:** `Spring Boot` `MongoDB` `React` `AWS S3`
+
+---
+
+### 🏨 StayScout
+
+> Hotel booking application with search, pagination, responsive UI, and API integration.
+
+**Tech:** `React` `REST API`
 ---
 
 ## 🌐 Coding Profiles
@@ -87,7 +101,7 @@ Current Goal:
 </a>
 
 <a href="https://www.codechef.com/users/rajat_5225">
-<img src="https://img.shields.io/badge/CodeChef-1313%20Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-1342%20Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Rajat52225">
