@@ -1,10 +1,18 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Rajat+Sharma;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Cloud+%26+DSA+Enthusiast;Always+Learning+Something+New+%F0%9F%9A%80" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=34&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Rajat+Sharma;Java+Backend+Developer;Spring+Boot+•+React+Developer;Cloud+%7C+DSA+Enthusiast;Building+Scalable+Applications"/>
+
+<br>
+
+<h1>Rajat Sharma</h1>
+
+<h3>Java Backend Developer • Full Stack Developer</h3>
+
+<p>
+Building scalable applications with Java, Spring Boot, React and Cloud technologies.
 </p>
 
-<h1 align="center">Hi 👋, I'm Rajat Sharma</h1>
-
-<h3 align="center">🚀 Full Stack Developer | Java Backend Developer</h3>
+</div>
 
 # Hi 👋, I'm Rajat Sharma
 
