@@ -2,25 +2,19 @@
   <img src="banner.png" width="90%" alt="Rajat Sharma Banner"/>
 </p>
 
----
-
 <div align="center">
 
 # 👋 Hi, I'm Rajat Sharma
 
-### Java Backend Developer | Full Stack Developer
+### Java Backend Developer • Full Stack Developer
 
-💻 **B.Tech CSE Student**
+💻 **B.Tech Computer Science Engineering**
 
-🌱 Learning **Spring Boot • React • Docker • Kubernetes**
+🌱 Currently Learning **Spring Boot • React • Docker • Kubernetes • AWS**
 
-🚀 Passionate about **Backend Development & DSA**
+🚀 Passionate about **Backend Development • Cloud • Data Structures & Algorithms**
 
 📍 India
-
-</div>
-
-<div align="center">
 
 *"Building software that solves real-world problems."*
 
@@ -31,30 +25,43 @@
 ## 👨‍💻 About Me
 
 ```yaml
-Name: Rajat Sharma
+Name:
+  Rajat Sharma
 
 Education:
-  - B.Tech Computer Science Engineering
+  B.Tech Computer Science Engineering
 
 Languages:
   - Java
   - C++
   - JavaScript
 
-Currently Learning:
+Backend:
   - Spring Boot
+  - REST APIs
+
+Frontend:
   - React
+  - HTML
+  - CSS
+
+Database:
+  - MongoDB
+
+Tools:
+  - Git
   - Docker
   - Kubernetes
+  - VS Code
+
+Currently Learning:
   - AWS
+  - Spring Security
+  - JWT Authentication
+  - System Design
 
-Interests:
-  - Backend Development
-  - Full Stack Development
-  - Data Structures & Algorithms
-
-Current Goal:
-  - Become a Software Engineer
+Goal:
+  Become a Software Engineer
 ```
 
 ---
@@ -62,7 +69,9 @@ Current Goal:
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,mongodb,docker,kubernetes,git,github,html,css,js,vscode&perline=6"/>
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,mongodb,docker,kubernetes,git,github,html,css,js,vscode,aws&perline=7"/>
+
 </p>
 
 ---
@@ -71,25 +80,48 @@ Current Goal:
 
 ### 🚇 MetroAlert *(Upcoming)*
 
-> Smart Delhi Metro journey assistant with destination alarms, live tracking, browser notifications, and route visualization.
+A real-time Delhi Metro journey assistant that provides destination alarms,
+live route tracking, smart notifications, ETA prediction and station alerts.
 
-**Tech:** `React` `Spring Boot` `MongoDB` `Maps API`
+**Tech Stack**
+
+`React`
+`Spring Boot`
+`MongoDB`
+`Maps API`
 
 ---
 
 ### 🔍 TraceBack
 
-> Lost & Found platform with secure authentication, AWS S3 image uploads, and claim verification.
+A Lost & Found platform with authentication,
+AWS S3 image uploads,
+claim verification,
+REST APIs and MongoDB.
 
-**Tech:** `Spring Boot` `MongoDB` `React` `AWS S3`
+**Tech Stack**
+
+`Spring Boot`
+`React`
+`MongoDB`
+`AWS S3`
 
 ---
 
 ### 🏨 StayScout
 
-> Hotel booking application with search, pagination, responsive UI, and API integration.
+Hotel Booking Application with
 
-**Tech:** `React` `REST API`
+- Search
+- Pagination
+- Responsive UI
+- API Integration
+
+**Tech Stack**
+
+`React`
+`REST API`
+
 ---
 
 ## 🌐 Coding Profiles
@@ -101,7 +133,7 @@ Current Goal:
 </a>
 
 <a href="https://www.codechef.com/users/rajat_5225">
-<img src="https://img.shields.io/badge/CodeChef-1342%20Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-1313%20Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Rajat52225">
@@ -112,23 +144,77 @@ Current Goal:
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rajat52225&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat52225&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Rajat52225&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajat52225&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rajat52225&theme=tokyonight&row=1&column=6&no-frame=true"/>
+
+</p>
+
+---
+
+## 📚 Currently Exploring
+
+- 🌱 Spring Boot Security
+- 🔐 JWT Authentication
+- ☁️ AWS Cloud
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🧩 Advanced DSA
+- ⚙️ System Design
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/Rajat52225">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<!-- Replace with your LinkedIn -->
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<!-- Replace with your email -->
+<a href="#">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+> *(We'll enable this using GitHub Actions in the next step.)*
 
 ---
 
