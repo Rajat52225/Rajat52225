@@ -58,3 +58,23 @@ Name: Rajat Sharma
 🚀 Current Goal:
   - Become a Software Engineer
 ```
+
+---
+
+## 🚀 Featured Projects
+
+### 🚇 MetroAlert *(Coming Soon)*
+
+A real-time Delhi Metro journey assistant with destination alarm, live tracking and smart notifications.
+
+---
+
+### 🔍 TraceBack
+
+Lost & Found platform built using Spring Boot, React, MongoDB and AWS S3.
+
+---
+
+### 🏨 StayScout
+
+Hotel booking application with search, pagination and responsive UI.
