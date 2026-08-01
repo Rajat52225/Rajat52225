@@ -1,35 +1,19 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Rajat Sharma Banner"/>
+  <img src="banner.png" width="90%" alt="Rajat Sharma Banner"/>
 </p>
 
-## 👨‍💻 About Me
+---
 
-```yaml
-Name: Rajat Sharma
+# 👋 Hi, I'm Rajat Sharma
 
-Education:
-  - B.Tech Computer Science
+### Java Backend Developer | Full Stack Developer
 
-Currently Learning:
-  - Spring Boot
-  - React
-  - Docker
-  - Kubernetes
-  - AWS
+💻 B.Tech CSE Student
 
-Interests:
-  - Backend Development
-  - Full Stack Development
-  - Cloud Computing
-  - Competitive Programming
+🌱 Currently learning **Spring Boot, React, Docker & Kubernetes**
 
-Current Goal:
-  - Become a Software Engineer
-```
+🚀 Passionate about Backend Development and DSA
 
-## 📊 GitHub Analytics
+📍 India
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rajat52225&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat52225&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+---
