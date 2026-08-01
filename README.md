@@ -27,3 +27,34 @@
 </p>
 
 ---
+
+---
+
+## 👨‍💻 About Me
+
+```yaml
+Name: Rajat Sharma
+
+🎓 Education:
+  - B.Tech Computer Science Engineering
+
+💻 Languages:
+  - Java
+  - C++
+  - JavaScript
+
+🌱 Currently Learning:
+  - Spring Boot
+  - React
+  - Docker
+  - Kubernetes
+  - AWS
+
+🎯 Interests:
+  - Backend Development
+  - Full Stack Development
+  - Data Structures & Algorithms
+
+🚀 Current Goal:
+  - Become a Software Engineer
+```
