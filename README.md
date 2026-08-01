@@ -218,14 +218,8 @@ Hotel Booking Application with
 
 ## 🐍 Contribution Snake
 
-> *(We'll enable this using GitHub Actions in the next step.)*
+<p align="center">
 
----
+<img src="https://raw.githubusercontent.com/Rajat52225/Rajat52225/output/github-contribution-grid-snake.svg"/>
 
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-</div>
+</p>
