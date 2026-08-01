@@ -1,56 +1,60 @@
 <div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Rajat+Sharma;Java+Backend+Developer;Spring+Boot+%7C+React;Cloud+%7C+DSA+Enthusiast" />
-</p>
+# Rajat Sharma
 
-<br>
+### Java Backend Developer • Full Stack Developer
 
-<h1>Rajat Sharma</h1>
-
-<h3>Java Backend Developer • Full Stack Developer</h3>
-
-<p>
-Building scalable applications with Java, Spring Boot, React and Cloud technologies.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Spring+Boot+Developer;React+Developer;Cloud+Enthusiast;DSA+Learner;Always+Building+Something+Cool+🚀"/>
 
 </div>
 
-# Hi 👋, I'm Rajat Sharma
+---
 
-## 🚀 Full Stack Developer | Java Backend Developer
+## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Student
-- 🌱 Currently learning Spring Boot, React & Cloud Technologies
-- 💻 Solving Data Structures & Algorithms
-- 🚀 Building Real World Full Stack Projects
+```yaml
+Name: Rajat Sharma
+
+Education:
+  - B.Tech Computer Science
+
+Currently Learning:
+  - Spring Boot
+  - React
+  - Docker
+  - Kubernetes
+  - AWS
+
+Interests:
+  - Backend Development
+  - Cloud Computing
+  - Full Stack Development
+  - Competitive Programming
+
+Current Goal:
+  - Become a Software Engineer
+```
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Tech Stack
 
-<!-- Stats will go here -->
-
----
-
-## 💻 Tech Stack
-
-<!-- Icons will go here -->
+<!-- We'll add premium icons next -->
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Analytics
 
-<!-- Projects -->
-
----
-
-## 🏆 Coding Profiles
-
-<!-- LeetCode, CodeChef, etc -->
+<!-- We'll add stats next -->
 
 ---
 
-## 📫 Connect With Me
+## ⭐ Featured Projects
 
-<!-- LinkedIn, Email -->
+<!-- We'll add project cards -->
+
+---
+
+## 📫 Connect
+
+<!-- We'll add socials -->
